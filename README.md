@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Zain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">I am Software Engineer who’s passionate about creating Fullstack web applications and content that can be of value to others. Highly passionate about System Design, Architecture and Clean Code.✨
+<h4 align="center">I am Engineer. ✨
 </h4>
 
 - 👀 I’m interested in computer engineering
